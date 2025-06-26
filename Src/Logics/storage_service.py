@@ -27,6 +27,8 @@ class storage_service:
 
         return data_
         
+    def genious(self):
+        pass
         
     # Набор основных методов    
         
